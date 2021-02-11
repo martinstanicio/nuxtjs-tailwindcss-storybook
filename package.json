@@ -1,7 +1,7 @@
 {
   "name": "nuxtjs-tailwindcss-storybook",
   "description": "Vue project template with a smooth NuxtJS, TailwindCSS and Storybook integration.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "author": "Martín Stanicio",
   "scripts": {
